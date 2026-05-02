@@ -29,7 +29,7 @@
        <targetName>launch</targetName>
        <result_directory.path>C:\Users\szymw\Documents\VTune\Projects\OMP-microarchitecture-analysis\r@@@{at}</result_directory.path>
        <use_app_dir_as_work_dir type="bool">true</use_app_dir_as_work_dir>
-       <launch_app.app_to_launch>C:\Users\szymw\PR\pierwsze4.exe</launch_app.app_to_launch>
+       <launch_app.app_to_launch>C:\Users\szymw\PR\pierwsze5.exe</launch_app.app_to_launch>
        <launch_app.app_parameters></launch_app.app_parameters>
        <launch.userappworkdir></launch.userappworkdir>
        <launch_app.working_folder>C:\Users\szymw\PR</launch_app.working_folder>
