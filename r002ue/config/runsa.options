@@ -1,5 +1,5 @@
 -r
-C:\Users\szymw\Documents\VTune\Projects\OMP-microarchitecture-analysis\r002ue
+C:\Users\szymw\Documents\VTune\Projects\brakujace-pomiary\r002ue
 --itt-config=frame
 --event-mux-factor=5
 --data-limit-mb=1000
@@ -16,4 +16,4 @@ C:\Users\szymw\Documents\VTune\Projects\OMP-microarchitecture-analysis\r002ue
 --p-state-trigger=CPU_CLK_UNHALTED.REF_TSC
 --app-working-dir=C:\Users\szymw\PR
 --
-C:\Users\szymw\PR\pierwsze1.exe
+C:\Users\szymw\PR\pierwsze5.exe
